@@ -10,4 +10,4 @@
 
 3.	Try the same question with temperature:0.0 and temperature:0.9 in the request body. What changes? (hint: add it to the JSON payload)
 
-    Cuando se usa una temperatura de 0.0 la respuesta siempre es la misma mientas que con 0.9 suele varias la respuesta
+    Cuando se usa una temperatura de 0.0 la respuesta siempre es la misma mientras que con 0.9 suelen varias
